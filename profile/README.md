@@ -16,6 +16,7 @@ Do not forget to join us at the [SCUM Central](https://discord.gg/2VaNFvadMq) Di
 | Repository | Brief description |
 | :--- | :--- |
 | [Optimus](../../../optimus) | Transformation tool for raw datamined files |
+| [Masterlist](../../../masterlist) | Servers masterlist parser |
 
 ## 📜 Notice
 
