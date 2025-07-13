@@ -1,4 +1,3 @@
-<p align="center"><img width="100" src="https://avatars.githubusercontent.com/u/157512606" /></p>
 <h1 align="center">SCUM Forge</h1>
 
 ## 👤 About
